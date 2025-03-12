@@ -15,7 +15,6 @@ html {
   }
 }
 
-/* Add this to your global CSS or in a specific component's style block */
 @layer utilities {
   .scrollbar-custom::-webkit-scrollbar {
     width: 7px; /* width of the scrollbar */
